@@ -8,3 +8,5 @@
 languages: Kotlin, Python,
 
 starting: javascript, Java, maybe C
+
+Discord: Ja'Crispy#6927
